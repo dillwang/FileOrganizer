@@ -1,0 +1,21 @@
+{
+    "exe": "installer",
+    "msi": "installer",
+    "doc": "word",
+    "docx": "word",
+    "txt": "word",
+    "pdf": "pdf",
+    "zip": "zipped",
+    "rar": "zipped",
+    "7z": "zipped",
+    "jpeg": "images",
+    "png": "images",
+    "jpg": "images",
+    "ppt": "powerpoint",
+    "java": "java",
+    "jar": "java",
+    "c": "C",
+    "cpp": "C",
+    "cxx": "C"
+  }
+  
